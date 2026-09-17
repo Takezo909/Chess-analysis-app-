@@ -24,3 +24,11 @@ body {
 .dark {
     background-color: #b58863;
 }
+
+#chessboard div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 45px;
+}
