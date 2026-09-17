@@ -12,3 +12,4 @@ What I plan in the future after I finish what I am currently doing?
 - Evaluation graph showing game progress like where is white winning or where black is losing / even.
 - Will add more after I implement all of this
   
+Prototype is currently on github pages : https://takezo909.github.io/Chess-analysis-app-/
